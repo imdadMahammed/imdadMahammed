@@ -1,18 +1,18 @@
 # Hi there, I'm Imdad Mahammed! 👋
 
-🚀 **Site Reliability Engineer | DevOps | Cloud Architect | Automation Evangelist**
+🚀 **Site Reliability Engineer | DevOps | Cloud Architect | Automation Evangelist | AI/ML Enthusiast**
 
-Welcome to my GitHub profile! With **11+ years of experience**, I specialize in **SRE, DevOps, Cloud Infrastructure, Automation, and Performance Optimization**. I am passionate about designing scalable, resilient, and highly available systems for modern cloud-native applications.
+Welcome to my GitHub profile! With **11+ years of experience**, I specialize in **SRE, DevOps, Cloud Infrastructure, AI/ML, GenAI, Automation, and Performance Optimization**. I am passionate about designing scalable, resilient, and highly available systems for modern cloud-native applications.
 
 ---
 
 ## 🔥 **About Me**
 
 - 🔭 **Currently Working On:** Architecting and automating large-scale cloud solutions in hybrid and multi-cloud environments.
-- 🌱 **Learning:** Advanced Kubernetes service mesh (Istio) and AI-powered incident response.
-- 🏆 **Expertise:** Cloud Computing (AWS | Azure | GCP), CI/CD Pipelines, Observability, Infrastructure as Code (IaC), and Security Compliance.
-- 💡 **Tech Enthusiast:** Constantly exploring emerging technologies in automation, monitoring, and performance engineering.
-- 🎯 **Goal:** Drive operational excellence and ensure seamless service reliability.
+- 🌱 **Learning:** Advanced Kubernetes service mesh (Istio), AI-driven observability, and Generative AI models.
+- 🏆 **Expertise:** Cloud Computing (AWS | Azure | GCP), AI/ML, Generative AI (GenAI), AI Agents, CI/CD Pipelines, Observability, Infrastructure as Code (IaC), Security Compliance, and AIOps.
+- 💡 **Tech Enthusiast:** Exploring AI-powered automation, predictive analytics, and cloud-native transformations.
+- 🎯 **Goal:** Drive operational excellence, enhance AI-driven automation, and ensure seamless service reliability.
 - 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/imdadMahammed) | [Twitter](https://twitter.com/imdadMahammed)
 
 ---
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhat-openshift)
 
 ### **🛠 DevOps & Automation**
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform)
@@ -33,26 +34,38 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EB5757?style=flat&logo=argo)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Pulumi](https://img.shields.io/badge/Pulumi-512BD4?style=flat&logo=pulumi)
+![Chef](https://img.shields.io/badge/Chef-F2BB13?style=flat&logo=chef)
+![SaltStack](https://img.shields.io/badge/SaltStack-00E7FF?style=flat&logo=saltstack)
 
-### **📊 Monitoring & Observability**
+### **📊 Monitoring, Observability & AI Operations**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace)
+![New Relic](https://img.shields.io/badge/NewRelic-008CFF?style=flat&logo=new-relic)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack)
+![AI Ops](https://img.shields.io/badge/AIOps-FF6F00?style=flat&logo=ai)
 
-### **🛠 Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
+### **🤖 AI/ML & GenAI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FEAA2D?style=flat&logo=huggingface)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-FFCD00?style=flat&logo=langchain)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E5?style=flat&logo=mlflow)
+
+### **📈 Project Management & Agile**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence)
 
 ---
 
-## 📈 **GitHub Stats & Trophies**
+## 🏆 **GitHub Stats & Trophies**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdadMahammed&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imdadMahammed&layout=compact&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=imdadMahammed&theme=radical)
 
@@ -60,23 +73,17 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 
 ## 🚀 **Notable Projects**
 
-### **🔹 [Automated Incident Response and Scaling System](https://github.com/imdadMahammed/Automated-Incident-Response-and-Scaling-System)**
+### **🔹 AI-Powered Incident Response System**
 
-⏩ A Golang-powered automation system that enhances incident response and scales Kubernetes clusters efficiently.
+⏩ Uses AI-driven predictive analytics to automate incident response, reducing downtime and optimizing system reliability.
 
 ✅ **Features:**
-- **Real-time Alert Handling:** Integrates with Prometheus Alertmanager to monitor alerts.
-- **Automated Recovery:** Restarts failing pods in response to high CPU usage alerts.
-- **Dynamic Scaling:** Automatically scales Kubernetes deployments based on alert conditions.
-- **Slack Integration:** Notifies the team about every incident via Slack.
+- **Self-Healing Workloads:** AI-powered automation for real-time issue resolution.
+- **Proactive Scaling:** Uses ML-based forecasting for auto-scaling workloads.
+- **Smart Root Cause Analysis:** AI-driven incident debugging and reporting.
+- **Conversational AI Assistants:** ChatOps integrations with AI Agents for real-time debugging.
 
-🛠 **Technologies Used:** Go, Kubernetes, Prometheus, Alertmanager, Slack API
-
----
-
-## 🌟 **Contribution Graph**
-
-![Imdad's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=imdadMahammed&theme=radical)
+🛠 **Technologies Used:** AI Agents, Generative AI, Kubernetes, Prometheus, OpenAI, LangChain
 
 ---
 
@@ -86,4 +93,4 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 🐦 **Twitter:** [twitter.com/imdadMahammed](https://twitter.com/imdadMahammed)  
 💬 **Portfolio & Blog:** [Coming Soon]
 
-⚡ **“Reliability is not a feature, it's a mindset.”** 🚀
+⚡ **“AI-Driven Automation is the Future of DevOps & SRE”** 🚀
