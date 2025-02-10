@@ -13,7 +13,7 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 - 🏆 **Expertise:** Cloud Computing (AWS | Azure | GCP), AI/ML, Generative AI (GenAI), AI Agents, CI/CD Pipelines, Observability, Infrastructure as Code (IaC), Security Compliance, and AIOps.
 - 💡 **Tech Enthusiast:** Exploring AI-powered automation, predictive analytics, and cloud-native transformations.
 - 🎯 **Goal:** Drive operational excellence, enhance AI-driven automation, and ensure seamless service reliability.
-- 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/imdadMahammed) | [Twitter](https://twitter.com/imdadMahammed)
+- 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/imdadMahammed) | [Twitter](https://twitter.com/imdadMahammed) | [HackerRank](https://www.hackerrank.com/profile/ikonda_mohd) | [StackOverflow](https://stackoverflow.com/users/27149139/mahammed-imdad-k).
 
 ---
 
