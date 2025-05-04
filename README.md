@@ -1,14 +1,14 @@
 # Hi there, I'm Imdad Mahammed! 👋
 
-🚀 **Site Reliability Engineer | DevOps | Cloud Architect | Automation Evangelist | AI/ML Enthusiast**
+🚀 **Generative AI Architect | Site Reliability Engineer | DevOps | Cloud Architect | Automation Evangelist | DevOps**
 
-Welcome to my GitHub profile! With **11+ years of experience**, I specialize in **SRE, DevOps, Cloud Infrastructure, AI/ML, GenAI, Automation, and Performance Optimization**. I am passionate about designing scalable, resilient, and highly available systems for modern cloud-native applications.
+Welcome to my GitHub profile! With **11+ years of experience**, I specialize in **GenAI, Platform Engineering, Cloud Infrastructure, AI/ML, Automation, and Performance Optimization**. I am passionate about designing scalable, resilient, and highly available systems for modern cloud-native applications.
 
 ---
 
 ## 🔥 **About Me**
 
-- 🔭 **Currently Working On:** Architecting and automating large-scale cloud solutions in hybrid and multi-cloud environments.
+- 🔭 **Currently Working On:** Architecting and automating large-scale GenAI solutions in multi-cloud environments.
 - 🌱 **Learning:** Advanced Kubernetes service mesh (Istio), AI-driven observability, and Generative AI models.
 - 🏆 **Expertise:** Cloud Computing (AWS | Azure | GCP), AI/ML, Generative AI (GenAI), AI Agents, CI/CD Pipelines, Observability, Infrastructure as Code (IaC), Security Compliance, and AIOps.
 - 💡 **Tech Enthusiast:** Exploring AI-powered automation, predictive analytics, and cloud-native transformations.
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhat-openshift)
 
-### **🛠 DevOps & Automation**
+### **🛠 Platform Engineering**
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EB5757?style=flat&logo=argo)
