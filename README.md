@@ -38,12 +38,42 @@ Welcome to my GitHub profile! With **11+ years of experience**, I specialize in 
 
 </div>
 
-- 🔭 **Currently Working On:** Architecting and automating large-scale GenAI solutions in multi-cloud environments
-- 🌱 **Learning:** Advanced Kubernetes service mesh (Istio), AI-driven observability, and Large Language Models (LLMs)
-- 🏆 **Expertise:** Cloud Computing (AWS | Azure | GCP), AI/ML, Generative AI (GenAI), AI Agents, CI/CD Pipelines, Observability, Infrastructure as Code (IaC), Security Compliance, and AIOps
-- 💡 **Tech Enthusiast:** Exploring AI-powered automation, predictive analytics, edge computing, and quantum-ready architectures
-- 🎯 **Goal:** Drive operational excellence, enhance AI-driven automation, and ensure seamless service reliability at scale
-- 🌍 **Location:** Bengaluru, Karnataka, India
+### **🚀 Technical Leadership & Innovation**
+
+- 🔭 **Currently Working On:** 
+  - Architecting **petabyte-scale GenAI platforms** with distributed inference across **multi-cloud environments**
+  - Building **LLMOps pipelines** for **fine-tuning custom models** on **GPU clusters** (A100/H100)
+  - Implementing **vector database architectures** (Pinecone, Weaviate, Chroma) for **enterprise RAG systems**
+  - Designing **event-driven microservices** with **Apache Kafka** and **NATS** for real-time AI workloads
+
+- 🌱 **Advanced Learning & Research:**
+  - **Kubernetes advanced patterns:** Multi-tenancy, GitOps with ArgoCD, RBAC policies, and custom operators
+  - **Service Mesh mastery:** Istio traffic management, security policies, observability, and canary deployments  
+  - **AI/ML cutting-edge:** Transformer architectures, RLHF, prompt engineering, and model quantization
+  - **Cloud-native security:** Zero-trust networking, OPA Gatekeeper, Falco runtime security, and SPIFFE/SPIRE
+
+- 🏆 **Core Technical Expertise:**
+  - **🌐 Multi-Cloud Architecture:** Cross-cloud workload orchestration, hybrid connectivity, and disaster recovery
+  - **🤖 AI/ML Engineering:** MLOps, model serving (Triton, TorchServe), A/B testing, and AutoML pipelines
+  - **⚙️ Platform Engineering:** Developer portals, golden paths, self-service infrastructure, and inner sourcing
+  - **📊 Observability Engineering:** OpenTelemetry, distributed tracing, SLI/SLO monitoring, and chaos engineering
+  - **🔒 Security & Compliance:** Infrastructure security, policy-as-code, vulnerability management, and audit automation
+  - **⚡ Performance Engineering:** High-frequency trading systems, sub-millisecond latency optimization, and distributed caching
+
+- 💡 **Innovation & Research Focus:**
+  - **🧠 Edge AI & Federated Learning:** Deploying AI models on edge devices with privacy-preserving techniques
+  - **🔮 Quantum-Ready Infrastructure:** Exploring quantum computing integration and post-quantum cryptography
+  - **🌊 Real-time Stream Processing:** Complex event processing with Apache Flink, Kafka Streams, and ClickHouse
+  - **🏗️ Infrastructure Automation:** Custom Kubernetes operators, Terraform modules, and policy-driven deployments
+
+- 🎯 **Strategic Objectives:**
+  - **🚀 Operational Excellence:** Achieving 99.99% uptime with autonomous incident response and self-healing systems
+  - **📈 Scale & Performance:** Supporting **10M+ concurrent users** with **sub-100ms P99 latency**
+  - **💰 Cost Optimization:** Implementing **FinOps practices** for **40%+ infrastructure cost reduction**
+  - **🔐 Zero-Trust Security:** Building defense-in-depth architectures with continuous security validation
+
+- 🌍 **Location:** Bengaluru, Karnataka, India (Open to global remote opportunities)
+- 🎓 **Continuous Learning:** AWS/Azure/GCP certifications, CNCF projects contributor, and open-source maintainer
 - 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/imdadMahammed) | [Twitter](https://twitter.com/imdadMahammed) | [HackerRank](https://www.hackerrank.com/profile/ikonda_mohd) | [StackOverflow](https://stackoverflow.com/users/27149139/mahammed-imdad-k)
 
 ---
@@ -328,7 +358,7 @@ mindmap
 
 ### **📬 Contact Information**
 - 📧 **Email:** [imdad.mahammed@example.com](mailto:ikonda.mohd@gmail.com)
-- 💬 **Discord:** imdadMahammed#1234
+- 💬 **Discord:** imdadMahammed#0923
 - 🗓️ **Calendar:** [Schedule a meeting](https://calendly.com/imdadMahammed)
 
 </div>
