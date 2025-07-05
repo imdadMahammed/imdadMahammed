@@ -357,9 +357,9 @@ mindmap
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/imdadMahammed)
 
 ### **📬 Contact Information**
-- 📧 **Email:** [imdad.mahammed@example.com](mailto:ikonda.mohd@gmail.com)
+- 📧 **Email:** [ikonda.mohd@gmail.com](mailto:ikonda.mohd@gmail.com)
 - 💬 **Discord:** imdadMahammed#0923
-- 🗓️ **Calendar:** [Schedule a meeting](https://calendly.com/imdadMahammed)
+- 🗓️ **Calendar:** [Schedule a meeting](https://calendly.com/imdad-kondakamarla/30min)
 
 </div>
 
