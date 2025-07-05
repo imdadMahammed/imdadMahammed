@@ -358,7 +358,7 @@ mindmap
 
 ### **📬 Contact Information**
 - 📧 **Email:** [ikonda.mohd@gmail.com](mailto:ikonda.mohd@gmail.com)
-- 💬 **Discord:** imdadMahammed#0923
+- 💬 **Discord:** mahammedimdad
 - 🗓️ **Calendar:** [Schedule a meeting](https://calendly.com/imdad-kondakamarla/30min)
 
 </div>
