@@ -8,7 +8,7 @@
 
 <div align="center">
   
- **Generative AI Architect | Site Reliability Engineer | DevOps | Cloud Architect | Automation Evangelist | AI/ML Innovation Leader**
+ **Platform Engineer | Site Reliability Engineer | DevOps | Cloud Architect | Automation Evangelist | AI/ML Innovation Leader**
 
 </div>
 
