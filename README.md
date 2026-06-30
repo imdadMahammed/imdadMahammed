@@ -2,197 +2,139 @@
 
 <div align="center">
 
-### Enterprise Identity Engineer → AI Workflow Automation Engineer
+# Enterprise AI Automation Engineer
 
-Building AI-powered workflow automation solutions using modern LLMs, APIs, and enterprise integrations.
+### AI Workflows • Intelligent Automation • Enterprise Integrations • AI Agents
 
-[LinkedIn](https://linkedin.com/in/imdadMahammed) •
-[GitHub](https://github.com/imdadMahammed)
+Building intelligent workflow automation solutions that connect enterprise systems, AI models, and business processes.
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Senior Technical Support Engineer with **10+ years of experience** helping enterprise customers solve complex technical problems.
+I design and build enterprise automation solutions that simplify business operations using AI, APIs, workflow orchestration, and cloud technologies.
 
-My professional background includes:
+My areas of interest include:
 
-- Identity & Access Management (IAM)
-- Ping Identity
-- ForgeRock
-- Enterprise Support
-- Production Incident Management
-- Root Cause Analysis
-- REST APIs
-- Authentication & Authorization
-- Cloud Platforms
-- DevOps Exposure
-- Platform Engineering Exposure
+- AI Workflow Automation
+- Enterprise Integrations
+- AI Agents
+- Intelligent Process Automation
+- API Integrations
+- Workflow Orchestration
+- Enterprise Knowledge Systems
+- Production Automation
 
-I'm currently transitioning into **AI Workflow Automation**, where I'm building practical projects using LLMs, workflow orchestration tools, and enterprise integrations.
+With over 10 years of enterprise IT experience, I have worked extensively with Identity & Access Management, enterprise platforms, REST APIs, cloud technologies, incident management, and automation within production environments.
 
----
-
-# 🎯 Current Career Focus
-
-My goal is to become an:
-
-- AI Workflow Automation Engineer
-- AI Integration Engineer
-- AI Automation Consultant
-- Enterprise AI Consultant
-- AI Operations Engineer
-
-I'm focused on solving real business problems through automation rather than building foundation AI models.
+Today my focus is on building practical AI automation solutions that help organizations eliminate repetitive work, improve operational efficiency, and accelerate decision-making.
 
 ---
 
-# 🚀 Currently Learning
+## 🚀 Core Expertise
+
+### AI Automation
+
+- AI Workflow Automation
+- AI Agents
+- Prompt Engineering
+- RAG Applications
+- OpenAI APIs
+- Claude APIs
+- MCP
+- LangGraph
+- CrewAI
+- Enterprise AI Solutions
+
+### Workflow Automation
 
 - n8n
 - Make.com
-- Langflow
-- Flowise
-- OpenAI API
-- Claude API
-- Model Context Protocol (MCP)
-- LangGraph
-- CrewAI
-- RAG
-- Vector Databases
-- Prompt Engineering
-- AI Agents
+- REST APIs
+- Webhooks
+- JSON
+- Automation Architecture
+- Process Optimization
 
----
+### Enterprise Technologies
 
-# 🛠 Technical Skills
-
-## Enterprise Technologies
-
+- Identity & Access Management
 - Ping Identity
 - ForgeRock
-- OAuth
+- OAuth 2.0
 - OpenID Connect
 - SAML
 - LDAP
-- REST APIs
-- JSON
+- Enterprise APIs
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 - Docker
-- Kubernetes (Learning)
-- Git
 - GitHub
 - Jenkins
 - Linux
-- AWS (Exposure)
-
-## Programming
-
 - Python
-- Bash
-- JavaScript (Basics)
-
-## AI Workflow Automation
-
-- n8n (Learning)
-- OpenAI API
-- Claude API
-- Langflow
-- Flowise
-- MCP
-- AI Agents
+- Kubernetes
+- AWS
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 🤖 AI Helpdesk Assistant
+🤖 AI Helpdesk
 
-An AI workflow that categorizes support emails, summarizes issues, and prepares tickets automatically.
+🚨 AI Incident Triage
 
-**Tech**
+📚 Enterprise Knowledge Base (RAG)
 
-- n8n
-- OpenAI
-- Gmail API
-- Slack
+📧 AI Email Automation
 
----
+👥 AI HR Assistant
 
-## 🚨 AI Incident Triage
+📄 AI Document Processing
 
-Automatically analyzes incidents, identifies priority, generates summaries, and prepares tickets.
+📊 AI Approval Workflow
 
-**Tech**
+🤖 AI Customer Support Agent
 
-- OpenAI
-- REST APIs
-- Python
-- n8n
+Every repository includes:
 
----
-
-## 📚 Enterprise Knowledge Base
-
-RAG-powered assistant that answers questions using internal documentation.
-
-**Tech**
-
-- OpenAI
-- ChromaDB
-- LangChain
-- Python
-
----
-
-## 📧 AI Email Automation
-
-Reads emails, extracts actions, drafts responses, and routes tasks automatically.
-
----
-
-# 📈 Learning Journey
-
-I'm documenting every project publicly.
-
-My repositories contain:
-
-- Architecture diagrams
-- README documentation
-- Deployment guides
+- Architecture
+- Source Code
+- Documentation
+- Deployment Guide
 - Screenshots
-- Lessons learned
-
-This GitHub reflects my practical learning journey into AI Workflow Automation.
-
----
-
-# 🌱 2026 Goals
-
-- Build 15+ AI Workflow Automation projects
-- Master n8n
-- Build enterprise-grade AI agents
-- Learn LangGraph
-- Learn MCP
-- Contribute to open-source AI automation projects
+- Business Problem
+- Technical Design
 
 ---
 
-# 📫 Connect
+## 🎯 What I Build
 
-LinkedIn:
-https://linkedin.com/in/imdadMahammed
+✔ Enterprise AI Workflows
 
-GitHub:
-https://github.com/imdadMahammed
+✔ AI-powered Business Automation
 
-Email:
-ikonda.mohd@gmail.com
+✔ Intelligent Process Automation
+
+✔ Enterprise Integrations
+
+✔ AI Support Engineers
+
+✔ AI Knowledge Systems
+
+✔ AI Incident Response
+
+✔ AI Productivity Tools
 
 ---
 
-> "Automation isn't about replacing people—it's about eliminating repetitive work so people can focus on solving meaningful problems."
+## 🌍 Let's Connect
+
+- LinkedIn
+- GitHub
+- Email
+
+> "The best automation is the one users never have to think about."
